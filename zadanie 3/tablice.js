@@ -9,13 +9,13 @@ function myColorChange() {
 }
 
 
-const fruits = ['Jabłko', 'Banan', 'Pomarańcza', 'Winogrona', 'Arbuz'];
+// const fruits = ['Jabłko', 'Banan', 'Pomarańcza', 'Winogrona', 'Arbuz'];
 
 
-const numbers = [2, 3, 4, 7, 10, 13, 17, 22];
+// const numbers = [2, 3, 4, 7, 10, 13, 17, 22];
 
-for (let i = 0; i > numbers.length; i += 1) {
+// for (let i = 0; i > numbers.length; i += 1) {
     if (numbers[i] > 5) {
         console.log(numbers[i])
     }
-}
+// }
