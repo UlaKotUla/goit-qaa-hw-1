@@ -1,0 +1,14 @@
+{
+    "name": "Josh", // string
+    "weight": 175, // number
+    "age": 30,     // number
+    "eyeColour": "brown", // string
+    "isHappy": true,      // boolean
+    "cars": ["Chevy", "Honda"], // tablica
+    "favouriteBook": {
+        "title": "The Last Kingdom",
+        "author": "Bernard Cornwell",
+        "rating": 8.38
+    }
+
+}
